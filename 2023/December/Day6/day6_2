@@ -1,1 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            
+        }
 
+        .card {
+            text-align: justify;
+            padding: 20px;
+            border-radius: 20px;
+            display: inline-flex;
+            flex-direction: column;
+            width: 75%;
+        }
+
+        .info {
+            background-color: greenyellow;
+        }
+
+        .video {
+            background-color: aqua;
+        }
+
+    </style>
+</head>
+<body>
+    <h1><a href="../december.html">BACK</a></h1>
+    <center>
+    <div class="container">
+        <h1>I</h1>
+        <div class="card info">
+            <p>
+                Sa pagdarasal kailangan mong pumayapa, at maging tapat. Sa Diyos tunay na makipagniig.'Wag Siyang lokohin 
+                sa magandang salita. Puso mo'y tatahimik sa harap ng Diyos. At sa paligid na inayos para sa 'yo, sarili'y
+                makikilala mo, kamumuhian at tatalikdan. Magiging normal ang relasyon mo sa Diyos, at magiging mapagmahal ka,
+                mapagmahal sa Diyos, magiging mapagmahal ka sa Diyos.
+            </p>
+        </div><br><br>
+
+        <h1>II</h1>
+        <div class="card info">
+            <p>    
+                Pagdarasal isentro sa matatapos Niya ngayon. Hilinging mas malinawan ka, dalhin problema mo sa Kanya
+                at iparating ang iyong pasiya. Puso mo'y tatahimik sa harap ng Diyos. At sa paligid na inayos para sa 'yo,
+                sarili'y makikilala mo, kamumuhian at tatalikdan. Magiging normal ang relasyon mo sa Diyos, at magiging 
+                mapagmahal ka, mapagmahal sa Diyos, magiging mapagmahal ka sa Diyos.
+            </p>
+        </div><br><br>       
+
+        <h1>III</h1>
+        <div class="card info">
+            <p>
+                Pagdarasal di para sumunod sa proseso kundi hanapin ang Diyos. Hilinging puso mo'y ingatan Niya. Puso mo'y 
+                tatahimik sa harap ng Diyos. At sa paligid na inayos para sa 'yo, sarili'y makikilala mo, kamumuhian at tatalikdan.
+                Magiging normal ang relasyon mo sa Diyos, at magiging mapagmahal ka, mapagmahal sa Diyos, magiging mapagmahal ka
+                sa Diyos. mula sa Sundan ang Cordero at Kumanta ng mga Bagong Awitin
+            </p>
+        </div>
+
+
+        <div class="card video">
+            <h1>Video</h1> 
+        </div>
+    </div>
+</center>   
+</body>
+</html>
